@@ -1,0 +1,13 @@
+person:
+  lastName: zhangsan
+  age: 18
+  boss: false
+  map: {k1: v1,k2: v2}
+  list:
+    - lisi
+    - zhaoliu
+  dog:
+    name: dogname
+    age: 2
+
+
